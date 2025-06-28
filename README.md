@@ -1,16 +1,31 @@
-## Hi there 👋
+👋 Hi there, I’m Kamel
+I'm at the very beginning of my coding journey — but I'm here to stay.
 
-<!--
-**k-am-el/k-am-el** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I’m learning now:
+HTML & CSS
 
-Here are some ideas to get you started:
+Git and the command line
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python for simple tools and automation
+
+🎯 My goal:
+To become a creative full-stack developer who builds useful, meaningful tools — from scratch.
+
+🛠 What I enjoy:
+Solving small problems and digging deep to find answers
+
+Turning ideas into working code
+
+Learning step by step — and sharing what I learn
+
+📚 Recent Project:
+I made a simple YouTube video downloader using Python — my first real “it works!” moment.
+
+💡 A quote I like:
+"The journey of a thousand miles begins with a single step."
+
+This is mine.
+
+📫 Let’s connect:
+I'll be posting my progress on LinkedIn (link coming soon!)
+
